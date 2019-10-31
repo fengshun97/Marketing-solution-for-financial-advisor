@@ -1,3 +1,6 @@
+# Marketing Solution for Financial advisor
+This is my final year project, HTML and CSS is used for front end, PHP is used for back end. SQL database is used in this project.
+
 # INSTALL INSTRUCTION
 
 <ul> <li>Firstly, you have to downlaod XAMPP, because I'm using Mysql database for this website. You can download XAMPP from here -> 'https://www.apachefriends.org/download.html'</li>
